@@ -4,7 +4,6 @@
 
 .main-container {
     height: 100vh;
-    /*width: 90vw;*/
     max-width: 1200px;
     display: flex;
     flex-flow: row wrap;
@@ -88,12 +87,8 @@
     align-self: stretch;
 }
 
-
-
-
 .box-5-2 {
     align-self: center;
-    
 } 
 
 .box-6-2 {
